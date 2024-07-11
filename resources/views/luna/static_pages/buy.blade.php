@@ -199,7 +199,7 @@
                                                     <input type="text" name="{{ $ipu['field'] }}"
                                                            @if($ipu['rule'] !== false) required lay-verify="required"
                                                            @endif
-                                                           placeholder="{{ $ipu['desc'] }}">
+                                                           placeholder="{{ $ipu['placeholder'] }}">
                                                 </label>
                                             </div>
                                         @endif

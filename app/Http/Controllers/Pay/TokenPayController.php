@@ -1,4 +1,12 @@
 <?php
+/**
+ * The file was created by LightCountry.
+ *
+ * @author    https://github.com/LightCountry
+ * @copyright https://github.com/LightCountry
+ * @link      https://github.com/LightCountry/TokenPay
+ */
+
 namespace App\Http\Controllers\Pay;
 
 
